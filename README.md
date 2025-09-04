@@ -1,6 +1,6 @@
 # 📊 Análisis de Ventas con Python
 
-Este proyecto fue desarrollado como parte de mi formación en programación con Python. El objetivo principal es aplicar técnicas de análisis de datos para interpretar
+Este proyecto fue desarrollado como parte de mi formación en programación con Python. El objetivo principal de aplicar técnicas de análisis de datos para interpretar
 información comercial, identificar patrones de comportamiento en las ventas y generar visualizaciones que faciliten la toma de decisiones.
 
 A través de este ejercicio, he consolidado habilidades clave en manipulación de datos, visualización gráfica y estructuración de código, utilizando herramientas ampliamente
@@ -21,7 +21,7 @@ El proyecto está construido con las siguientes tecnologías:
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 - `aprendo.py`: Script principal que contiene el flujo completo de análisis y modelado.  
 - `ventas.csv`: Archivo de datos
@@ -29,7 +29,7 @@ El proyecto está construido con las siguientes tecnologías:
 
 ---
 
-## ⚙️ Funcionalidades implementadas
+##  Funcionalidades implementadas
 
 - Carga y limpieza de datos desde un archivo CSV.  
 - Cálculo de métricas clave: ventas totales, promedio por producto, segmentación por categorías.  
@@ -39,7 +39,7 @@ El proyecto está construido con las siguientes tecnologías:
 
 ---
 
-## 🤖 Modelos de machine learning utilizados
+## Modelos de machine learning utilizados
 
 Utilizando la biblioteca Scikit-learn, se implementaron modelos básicos para explorar la posibilidad de predecir comportamientos de ventas:
 
@@ -51,7 +51,7 @@ Estos modelos permiten entender cómo ciertas variables influyen en los resultad
 
 ---
 
-## 🚀 ¿Cómo ejecutar el proyecto?
+##  ¿Cómo ejecutar el proyecto?
 
 1. Clona el repositorio:  
 ``` bash
@@ -78,7 +78,6 @@ Este proyecto representa un paso significativo en mi camino como desarrolladora.
 - Documentar y estructurar un proyecto de forma profesional.
 
   
-Soy Verónica, desarrolladora junior especializada en Python, con formación en análisis de datos, desarrollo web y actualmente en proceso de formación
-en ciberseguridad. Este proyecto forma parte de mi portafolio personal, donde demuestro mis habilidades técnicas y mi compromiso con el aprendizaje continuo
-y sin descanso.
+Soy Verónica, desarrolladora junior especializada en Python, con formación en análisis de datos, desarrollo web  Este proyecto forma parte de mi portafolio personal, donde demuestro mis habilidades técnicas y mi compromiso con el aprendizaje continuo.
+
    
